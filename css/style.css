@@ -780,7 +780,6 @@ div#disqus_thread iframe[sandbox] {
 }
 
 .disqus_section {
-    display: flex;
     max-width: 100%;
     margin: 0 auto;
 }
