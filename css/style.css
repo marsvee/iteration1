@@ -775,6 +775,10 @@ footer section {
     margin: 0 0 15px
 }
 
+div#disqus_thread iframe[sandbox] {
+        max-height: 0px !important;
+}
+
 .disqus_section {
     display: flex;
     max-width: 100%;
